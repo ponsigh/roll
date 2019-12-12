@@ -7,3 +7,4 @@ The aim of the project is to make available a CNC with little price barrier. Tim
 
 The end goal is a 5 axis cnc for hard metals, which can be made from parts easily found.
 
+Test CNC 1 branch
